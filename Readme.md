@@ -18,7 +18,7 @@ A **Team Contract** is a document prepared by each team prior to starting work o
 
 1. Leadership structure (individual, individual with rotating leadership, shared):
   a. Shared, with unanimous voting on decisions.
-2. Who is the team Recorder/Documentation Manager/Maintainer of all required turn-ins?
+  2. Who is the team Recorder/Documentation Manager/Maintainer of all required turn-ins?
   a. Each team member has their own Clockify account as well as their own blog for required posts, and as such each team member is responsible for their own documents. The only exception are the presentations, in which all team members are responsible for creating and presenting their progress so far.
 3. Day, time, and place for regular team meetings:
   a. Team meetings will be coordinated within Microsoft Teams and will carry out either within teams or in person, according to the times at which all team members can meet.
